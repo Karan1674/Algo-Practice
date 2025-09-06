@@ -1,0 +1,196 @@
+Pattern 1: Square Star Pattern
+
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+
+Pattern 2: Right Angle Triangle (Stars)
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+
+Pattern 3: Right Angle Triangle (Numbers Increasing in Row)
+
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+
+Pattern 4: Right Angle Triangle (Same Number in Row)
+
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5 
+
+Pattern 5: Inverted Right Triangle (Stars)
+
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+Pattern 6: Inverted Right Triangle (Numbers Increasing)
+
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+
+Pattern 7: Pyramid Pattern (Stars)
+
+        * 
+      * * * 
+    * * * * * 
+  * * * * * * * 
+* * * * * * * * * 
+
+Pattern 8: Inverted Pyramid Pattern (Stars)
+
+* * * * * * * * * 
+  * * * * * * * 
+    * * * * * 
+      * * * 
+        * 
+
+Pattern 9: Diamond Pattern (Stars)
+
+        * 
+      * * * 
+    * * * * * 
+  * * * * * * * 
+* * * * * * * * * 
+  * * * * * * * 
+    * * * * * 
+      * * * 
+        * 
+
+Pattern 10: Triangle then Inverted Triangle (Stars)
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+Pattern 11: Binary Right Angle Triangle (0s and 1s)
+
+1 
+0 1 
+1 0 1 
+0 1 0 1 
+1 0 1 0 1 
+
+Pattern 12: Palindrome Number Pyramid
+
+1                 1 
+1 2             2 1 
+1 2 3         3 2 1 
+1 2 3 4     4 3 2 1 
+1 2 3 4 5 5 4 3 2 1 
+
+Pattern 13: Continuous Number Triangle
+
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+
+Pattern 14: Right Angle Alphabet Pattern (Increasing Letters)
+
+A 
+A B 
+A B C 
+A B C D 
+A B C D E 
+
+Pattern 15: Inverted Alphabet Triangle
+
+A B C D E 
+A B C D 
+A B C 
+A B 
+A 
+
+Pattern 16: Right Angle Alphabet Pattern (Same Letter per Row)
+
+A 
+B B 
+C C C 
+D D D D 
+E E E E E 
+
+Pattern 17: Alphabet Pyramid (A to Peak and Back)
+
+        A 
+      A B A 
+    A B C B A 
+  A B C D C B A 
+A B C D E D C B A 
+
+Pattern 18: Reverse Alphabet Triangle
+
+E 
+E D 
+E D C 
+E D C B 
+E D C B A 
+
+Pattern 19: Double Triangle Pattern (Hourglass with Stars)
+
+* * * * * * * * * * 
+* * * *     * * * * 
+* * *         * * * 
+* *             * * 
+*                 * 
+*                 * 
+* *             * * 
+* * *         * * * 
+* * * *     * * * * 
+* * * * * * * * * * 
+
+Pattern 20: Symmetric Double Triangle with Spaces
+
+*                 * 
+* *             * * 
+* * *         * * * 
+* * * *     * * * * 
+* * * * * * * * * * 
+* * * *     * * * * 
+* * *         * * * 
+* *             * * 
+*                 * 
+
+Pattern 21: Hollow Square Pattern
+
+* * * * * 
+*       * 
+*       * 
+*       * 
+* * * * * 
+
+Pattern 22: Number Square Pattern (Concentric)
+
+5 5 5 5 5 5 5 5 5 
+5 4 4 4 4 4 4 4 5 
+5 4 3 3 3 3 3 4 5 
+5 4 3 2 2 2 3 4 5 
+5 4 3 2 1 2 3 4 5 
+5 4 3 2 2 2 3 4 5 
+5 4 3 3 3 3 3 4 5 
+5 4 4 4 4 4 4 4 5 
+5 5 5 5 5 5 5 5 5 
